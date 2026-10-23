@@ -9,6 +9,7 @@
 2. Understand the [EDR and XDR](https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/XDR/index.html) differences
 3. Consider using the [AI Assistant tools](https://docs.sophos.com/central/customer/help/en-us/AI/index.html) for helping write queries and performing SecOp tasks
 
+
 == The MIT License (MIT) ==
 
 Copyright (c) 2026
